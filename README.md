@@ -3,6 +3,8 @@
 Research and development repository for learning robot-assisted dressing policies in the **PhyRC 2027 Phase 1 challenge**. This project focuses on teleoperated demonstration collection, dataset preparation, and learning-based policy development for simulated manipulation tasks involving clothing.
 
 The goal is to develop and evaluate policies that can perform dressing-related manipulation through a structured, reproducible workflow.
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/ce2382d3-e5d6-4678-96f3-ced797905672" />
+
 
 ## Overview
 
